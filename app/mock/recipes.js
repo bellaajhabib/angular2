@@ -1,0 +1,1 @@
+System.register(["../shaerd/recipe","../shaerd/ingredient"],function(e,n){"use strict";var t,i,r;n&&n.id;return{setters:[function(e){t=e},function(e){i=e}],execute:function(){e("RECIPES",r=[new t.Recipe("Winner Schnitzel","A tasty Schintzel","http://",[new i.Ingredient("French Fries",1)])])}}});

@@ -1,0 +1,1 @@
+System.register([],function(t,e){"use strict";var i;e&&e.id;return{setters:[],execute:function(){i=function(){function t(t,e,i,n){this.name=t,this.content=e,this.imageUrl=i,this.ingredients=n}return t}(),t("Recipe",i)}}});
